@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace FizzBuzz
 {
-    internal static class Program
+    internal class Program
     {
         private static readonly char[] Fizz = {'F', 'i', 'z', 'z'};
         private static readonly char[] Buzz = {'B', 'u', 'z', 'z'};
